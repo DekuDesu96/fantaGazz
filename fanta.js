@@ -1,6 +1,6 @@
 // Array con le squadre e i budget iniziali
 const teams = [
-    { name: "Campari Team", budget: 550, purchases: [] },
+    { name: "Negroni   Team", budget: 550, purchases: [] },
     { name: "Pescaramanzia", budget: 45, purchases: [] },
     { name: "Fratelli Manna", budget: 330, purchases: [] },
     { name: "Berlusca Dortmund", budget: 270, purchases: [] },
